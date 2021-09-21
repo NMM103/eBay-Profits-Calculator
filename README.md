@@ -5,3 +5,5 @@
 ### Note:
  This code has not been altered since eBay has separated its payment processing with PayPal, so this calculation is NO LONGER 100% accurate.
  If using this program to calculate true expected profits, note that in most cases, your profits will be slightly greater than the app suggested because of this.
+ 
+ This program was initially only used for personal use as it was a quick n' dirty solution, but perhaps others could find use in it.
